@@ -1,0 +1,13 @@
+{
+  "id": "my-new-app",
+  "version": "0.0.1",
+  "name": "cssdrestapp",
+  "author": "Uddevalla kommun",
+  "description": "En testapplikation",
+  "helpUrl": "",
+  "type": "RESTApp",
+  "bundled": true,
+  "storage": {
+    "collectionDataStore": "messages"
+  }
+}
